@@ -1,0 +1,7 @@
+{
+  "name": "Walki",
+  "integrations": {
+    "cordova": {}
+  },
+  "type": "ionic-angular"
+}
